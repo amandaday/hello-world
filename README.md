@@ -1,2 +1,4 @@
 # hello-world
-First Repository
+Hello!
+My name is Amanda. This is my first time using github. 
+Hooray!
